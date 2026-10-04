@@ -168,22 +168,3 @@ AI-Document-Intelligence-RAG/
 ├── .gitignore
 └── README.md
 
-
-
-## 📸 Project Screenshots
-
-### Dashboard
-
-![AI Document Intelligence Dashboard](screenshots/dashboard.png)
-
-### AI Document Chat
-
-![AI Document Chat](screenshots/chat.png)
-
-### Multiple Document Q&A
-
-![Multiple Document Q&A](screenshots/multiple-documents.png)
-
-### FastAPI Documentation
-
-![FastAPI Documentation](screenshots/api.png)
